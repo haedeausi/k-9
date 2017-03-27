@@ -56,9 +56,9 @@ android {
         versionName '5.300-SNAPSHOT'
 
         minSdkVersion 15
-        targetSdkVersion 22
 
-        generatedDensities = ['mdpi', 'hdpi', 'xhdpi']
+        targetSdkVersion 21
+
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
